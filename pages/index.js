@@ -16,7 +16,7 @@ export default function Home() {
         />
       </Head>
 
-      <button>Click</button>
+      <button className={styles.red}>Click</button>
     </div>
   );
 }
